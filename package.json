@@ -1,0 +1,30 @@
+{
+  "name": "trailingcommatest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "karma-sauce-launcher": "~0.2.10",
+    "karma-junit-reporter": "~0.2.2",
+    "karma": "~0.12.23",
+    "karma-jasmine": "~0.1.5"
+  },
+  "devDependencies": {
+    "karma-jasmine": "~0.1.5",
+    "karma-junit-reporter": "~0.2.2",
+    "karma-sauce-launcher": "~0.2.10",
+    "karma": "https://registry.npmjs.org/karma/-/karma-0.12.23.tgz"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvarga/trailingcommatest"
+  },
+  "author": "Balazs Varga",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bvarga/trailingcommatest/issues"
+  }
+}
